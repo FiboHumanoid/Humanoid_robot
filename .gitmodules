@@ -1,0 +1,3 @@
+[submodule "src/vision/fibot_detection"]
+	path = src/vision/fibot_detection
+	url = git@github.com:FiboHumanoid/fibot_detection.git
